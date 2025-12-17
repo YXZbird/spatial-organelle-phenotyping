@@ -1,4 +1,4 @@
-# 🧬 Image-based Spatial Phenotyping Pipeline
+# Image-based Spatial Phenotyping Pipeline
 
 A reproducible pipeline for cell-level spatial phenotyping from multichannel
 microscopy images, combining interpretable feature extraction with exploratory
