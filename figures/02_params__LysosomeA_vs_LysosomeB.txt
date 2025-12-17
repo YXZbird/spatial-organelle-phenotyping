@@ -1,0 +1,19 @@
+PROJECT_ROOT=C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline
+toy_images_dir=C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images
+toy_metadata_dir=C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\metadata
+figures_dir=C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\figures
+DATA_LAYOUT=two_subfolders: treated/untreated
+N_TILES=12
+CHANNELS={0: 'DAPI', 1: 'LysosomeA', 2: 'LysosomeB', 3: 'Ch3'}
+ANALYSIS_CHANNEL_A=1 (LysosomeA)
+ANALYSIS_CHANNEL_B=2 (LysosomeB)
+rgb_channels=(1, 2, 0)
+nucleus: method=otsu, percentile=99.3, min_area=300, closing=3, opening=2
+nucleus: split_touching=True, min_peak_distance=8, dt_sigma=1.0
+preprocess: gamma=0.85, gaussian_sigma=1.0
+cell: combine=max, smooth_sigma=1.0, thr=otsu, perc=99.0
+cell: opening=1, closing=4, min_area=2500, split_touching=True
+cell: dt_smooth_sigma=3.0, hmaxima_H=4
+cell: merge_false_cuts=True, merge_boundary_mean_gt=0.45, merge_min_region_area=500
+assign: NUC_CELL_MIN_OVERLAP_PX=20
+features: N_RADIAL_BINS=12, PERINUCLEAR_R_FRACTION=0.25, PERINUCLEAR_R_PX=None

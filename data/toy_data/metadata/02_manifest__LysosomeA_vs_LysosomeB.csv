@@ -1,0 +1,13 @@
+tile_path,tile_name,group
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_019_y576_x768_C4.tif,tile_019_y576_x768_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_020_y768_x0_C4.tif,tile_020_y768_x0_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_021_y768_x192_C4.tif,tile_021_y768_x192_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_022_y768_x384_C4.tif,tile_022_y768_x384_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_023_y768_x576_C4.tif,tile_023_y768_x576_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\treated\tile_024_y768_x768_C4.tif,tile_024_y768_x768_C4.tif,treated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y0_x0_C4.tif,tile_000_y0_x0_C4.tif,untreated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y0_x192_C4.tif,tile_000_y0_x192_C4.tif,untreated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y0_x384_C4.tif,tile_000_y0_x384_C4.tif,untreated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y0_x576_C4.tif,tile_000_y0_x576_C4.tif,untreated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y0_x768_C4.tif,tile_000_y0_x768_C4.tif,untreated
+C:\Users\yixiao Zhou\Desktop\image-based-phenotyping-pipeline\data\toy_data\images\untreated\tile_000_y192_x0_C4.tif,tile_000_y192_x0_C4.tif,untreated
