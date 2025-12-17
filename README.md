@@ -110,6 +110,7 @@ leakage across tiles.
 All outputs are generated automatically by the notebooks and saved to
 structured directories.
 
+The included toy dataset (treated / untreated TIFF tiles) is provided solely for pipeline testing and demonstration purposes.
 ---
 
 ## Reproducibility
