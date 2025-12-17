@@ -55,12 +55,12 @@ strict tile-level cross-validation.
 
 ## Repository layout
 
-image-based-phenotyping-pipeline/
-├─ notebooks/ # Analysis notebooks (01–03)
-├─ src/ # Reusable core modules
-├─ data/ # Input images and derived metadata
-├─ figures/ # Automatically generated figures
-└─ README.md # This file
+## image-based-phenotyping-pipeline/
+## ├─ notebooks/ # Analysis notebooks (01–03)
+## ├─ src/ # Reusable core modules
+## ├─ data/ # Input images and derived metadata
+## ├─ figures/ # Automatically generated figures
+## └─ README.md # This file
 
 
 Each subdirectory contains its own `README.md` describing scope, structure,
